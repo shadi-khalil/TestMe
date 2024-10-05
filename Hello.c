@@ -1,4 +1,6 @@
-#include<stdio.h>
-int main(){
-retrun 0;
+#include <stdio.h>
+int main()
+{
+    printf("Hello World");
+    retrun 0;
 }
